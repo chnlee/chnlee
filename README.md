@@ -1,14 +1,26 @@
-## Tech Stack 👋
+<!--기술스택-->
+  ## Tech Stack :four_leaf_clover:
 
-<div align="center">
+  <!--백-->
+   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+  <br/>
+  <!--언어 및 툴 -->
+   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
+<br/><br/>
+  
+ <!--공부중 -->
+ 
+  ## Studying :pencil2: 
+ <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
+  <!--백-->
+  <br/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-
-<img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
 
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chan6022)](https://solved.ac/chan6022)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chan6022)](https://solved.ac/chan6022)<br/>
 
 ![chnlee's github stats](https://github-readme-stats.vercel.app/api?username=chnlee&show_icons=true)
 [![chnlee's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chnlee&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/chnlee)
