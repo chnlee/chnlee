@@ -11,9 +11,6 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
 
 
-
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chan6022)](https://solved.ac/chan6022)<br/>
-
 ![chnlee's github stats](https://github-readme-stats.vercel.app/api?username=chnlee&show_icons=true)
 [![chnlee's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chnlee&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/chnlee)
 <!--
