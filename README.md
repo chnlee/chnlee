@@ -10,10 +10,9 @@
 ### 🔭 About Me
 
 - 🧑‍🎓 Researching compiler infrastructure at Yonsei University
-- ⚙️ Working with **MLIR**, **Triton**, and compiler optimization for ML workloads
-- 🏆 Built [TeamKorea](https://github.com/chnlee/TeamKorea) — an agent-reasoning solution for the MLSys 2026 scheduling contest (Track B)
-- 🌱 Currently learning [관심 분야를 적어주세요]
-- 📫 Reach me at **[이메일 주소]**
+- ⚙️ Working with **LLVM**, **MLIR**, **Triton**, and compiler optimization for ML workloads
+- 🌱 My current work explores how LLMs can serve as a high-level reasoning component inside the compiler
+- 📫 Reach me at **chan.lee@yonsei.ac.kr**
 
 ### 🛠️ Tech Stack
 
